@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Set The Mood</string>
+    <string name="what_mood">What Is Your Mood?</string>
+    <string name="your_mood">Your Current Mood</string>
+    <string name="rate_song">Rate This Song!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mood">MoodActivity</string>
+    <string name="title_activity_mood_list">MoodListActivity</string>
+</resources>
